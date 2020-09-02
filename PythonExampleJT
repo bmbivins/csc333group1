@@ -6,3 +6,5 @@ weightKG = str(weightKG)
 print("Your weight in kilograms is:\n " + weightKG)
 
 #I like Doritos
+print("Lou would prefer the weight in lbs.")  #lou's comment
+
